@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### About me
-Full stack developer with Devops experience. Tech stack Reactjs, Nodejs, Expressjs, SQL, Mongodb, Streams.
+Full stack developer with Devops experience. Tech stack Reactjs, Nodejs, Expressjs, SQL, Mongodb, Streams.  
 I believe a leader should be **Trustworthy** and I make sure to create that trust among my peers.  
 I like to code and manage/guide teams :)
 
